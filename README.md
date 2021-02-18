@@ -1,6 +1,7 @@
 # Overview
 
 This is an application where user can add task with title and body and also can publish the task.
+User can also search the task by the title name or body.
 
 ## Description
 
